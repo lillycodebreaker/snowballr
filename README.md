@@ -2,7 +2,7 @@
 
 A clean, accessible ETF research and growth simulation Frontend UI Demo.
 
-🚀 **Live Site:** [https://snowballr.netlify.app](https://snowballr.netlify.app)
+🚀 **Live Site:** [[https://snowballr.netlify.app]([https://snowballr.netlify.app0](https://69aa517e4b7572e7ed109b61--lovely-puffpuff-2c8a99.netlify.app/))](https://69aa517e4b7572e7ed109b61--lovely-puffpuff-2c8a99.netlify.app/)
 
 ## Features
 
